@@ -1,0 +1,13 @@
+
+.divider {
+    border-top: 1px solid #e5e5e5 !important;
+    border-bottom: 1px solid #e5e5e5 !important;
+    height: 1px;
+}
+
+.jumbotron{
+	background-color: #0066CC;
+	color: #E6E6E6;
+
+	
+}
